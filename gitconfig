@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ondine.debienne@gmail.com
+	name = Ondine Debienne
